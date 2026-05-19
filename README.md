@@ -16,7 +16,7 @@ Unity（C#）でのゲーム開発を中心に、個人でのコード実装と�
 - **担当**: メインプログラマー（コードはすべて私が記述）
 - **共同制作者の担当**: デザイン・ストーリー
 - **使用技術**: Unity / C#
-- **プレイ**: [<!-- TODO: UnityRoom の作品URLをここに記載 -->](https://unityroom.com/games/nightdrive)
+- **プレイ**: [UnityRoomでプレイ](https://unityroom.com/games/nightdrive)
 
 > 本作は2人での共同制作物です。プログラムは私がすべて記述しました。
 > デザイン・ストーリーは共同制作者が担当しています。
@@ -31,7 +31,7 @@ Unity（C#）でのゲーム開発を中心に、個人でのコード実装と�
 
 - **担当**: 全体設計（ゲーム構造の分割と統合方針の策定、仕様の取りまとめ）
 - **使用技術**: Unity / C#
-- **プレイ**: [<!-- TODO: UnityRoom の作品URLをここに記載 -->](https://unityroom.com/games/prpg)
+- **プレイ**: [UnityRoomでプレイ](https://unityroom.com/games/prpg)
 
 #### 担った設計
 
@@ -67,7 +67,7 @@ Unity（C#）でのゲーム開発を中心に、個人でのコード実装と�
 
 - **担当**: リードプログラマ（全体設計・作業分担・職種間の橋渡し・実装）
 - **使用技術**: Unity / C# / Windowsビルド
-- **紹介動画 (itch.io)**: [<!-- TODO: itch.io の紹介動画URLをここに記載 -->](https://bitsummit-gamejam.itch.io/uityantowakaiseyo)
+- **紹介動画 (itch.io)**: [itch.ioで見る](https://bitsummit-gamejam.itch.io/uityantowakaiseyo)
 
 > 本作はWindows向けにビルドしており、ブラウザ実行はできません。
 > プレイ内容は itch.io の紹介動画で確認できます。
